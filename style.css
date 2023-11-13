@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap'); /* google fonts - https://fonts.google.com/specimen/Pixelify+Sans */
+
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  background-color: #C5871C;
+  font-size: 1rem;
+  font-family: 'Pixelify Sans', sans-serif;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+canvas {
+  display: block;
+}
